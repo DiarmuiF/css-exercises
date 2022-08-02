@@ -65,14 +65,17 @@ a:link {
 
 a:visited {
   text-decoration: none;
+  color: rgb(44, 44, 44)
 }
 
 a:hover {
   text-decoration: none;
+  color: rgb(44, 44, 44)
 }
 
 a:active {
   text-decoration: none;
+  color: rgb(44, 44, 44)
 }
 
 .footer {
