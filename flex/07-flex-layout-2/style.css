@@ -21,6 +21,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  min-width: 280px;
 }
 
 .card {
@@ -32,4 +33,19 @@ body {
 .center {
   display: flex;
   flex: 1;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-flow: column;
+  gap: 14px;
+  margin-top: 10px;
+  padding-left: 10px;
+  font-size: 22px;
 }
